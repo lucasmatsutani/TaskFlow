@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow — Checklist & Smart Breakdown",
+  "description": "Aplicativo moderno e minimalista de Checklist e To-Do List com suporte a tema dark/light, categorização, prioridades, progresso em tempo real e decomposição inteligente de metas com IA (Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
